@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aadhithan 👋
 
-<!--
-**aadhithan0520/aadhithan0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Web Developer  
+🐍 Python Developer  
+🎨 Graphic Designer  
 
-Here are some ideas to get you started:
+## About Me
+I am passionate about web development and creating responsive websites.
+Currently seeking internship opportunities to improve my skills and gain industry experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## Projects
+- Personal Portfolio Website
+
+## Currently Learning
+- React.js
+- Modern Frontend Development
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/aadhithan-m-474a95279
